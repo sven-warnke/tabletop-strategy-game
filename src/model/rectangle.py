@@ -55,7 +55,6 @@ class TurnableRectangle(ParallelRectangle):
         return temporary_rectangle.change_orientation_to_left()
 
 
-
 if __name__ == "__main__":
     my_rectangle = ParallelRectangle(point2d.Point2d(10, 20), 100, 200)
     print(my_rectangle)
