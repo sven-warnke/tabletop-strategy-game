@@ -1,6 +1,7 @@
 import point2d
 import pytest
 
+
 class TestPoint2d:
     x_coordinate = 1
     y_coordinate = 2
